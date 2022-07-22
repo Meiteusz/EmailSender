@@ -1,6 +1,6 @@
 # EmailSender
 
-Um micro serviço de envio de Email para a redefinição de senha de algum componente do seu app.
+Um micro serviço/api de envio de Email para a redefinição de senha de algum componente do seu app.
 
 - Email Code para redefinição de senha
 - Body feito para redefinição de senha
